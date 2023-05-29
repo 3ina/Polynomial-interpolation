@@ -66,6 +66,7 @@ while program_continue:
             break
         elif answer == 'n':
             program_continue = False
+            break
         else:
             print("please inter 'y' or 'n' ")
 
